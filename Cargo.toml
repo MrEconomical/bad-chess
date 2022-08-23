@@ -1,0 +1,12 @@
+[package]
+name = "bad-chess"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clearscreen = "1.0"
+colored = "2.0"
+nohash-hasher = "0.2"
+rand_chacha = "0.3"
